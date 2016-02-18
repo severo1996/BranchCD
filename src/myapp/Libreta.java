@@ -4,9 +4,7 @@ import javax.swing.JOptionPane;
 
 public class Libreta {
     
-    /**
-     * 
-     */
+    
     private String nombre;
     private String DNI;
     private String Apellido;
@@ -24,5 +22,7 @@ public class Libreta {
         
         
     }
-
+   public void metodoprueba(){
+       
+   }
 }
